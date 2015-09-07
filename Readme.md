@@ -33,7 +33,7 @@ import Performance from 'stevenmiller888/deku-performance';
 
 [MIT](https://tldrlegal.com/license/mit-license)
 
-[npm-image]: https://img.shields.io/npm/v/perf.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/perf
+[npm-image]: https://img.shields.io/npm/v/deku-performance.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/deku-performance
 [license-image]: https://img.shields.io/npm/l/express.svg
 [license-url]: https://tldrlegal.com/license/mit-license
