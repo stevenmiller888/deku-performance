@@ -5,7 +5,7 @@
 
 A performance monitoring component built with Deku that uses accurate end-to-end latency data via the [Navigation Timing](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) API.
 
-![](https://cldup.com/vuY4YllSLn.png)
+<img src="https://cldup.com/vuY4YllSLn.png" width="300" height="200">
 
 ## Installation
 
